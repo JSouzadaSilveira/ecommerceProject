@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'dc96a46a2bd803ab08dc1eca57bdb4078b599e2d',
+        'reference' => '4b39a8e6870432f5bc3c5591cad61f611532496d',
         'name' => 'jsouzadasilveira/ecommerceproject',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'dc96a46a2bd803ab08dc1eca57bdb4078b599e2d',
+            'reference' => '4b39a8e6870432f5bc3c5591cad61f611532496d',
             'dev_requirement' => false,
         ),
         'phpmailer/phpmailer' => array(
