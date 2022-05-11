@@ -1,9 +1,9 @@
 {
-    "name": "hcodebr/ecommerce",
+    "name": "jsouzadasilveira/ecommerceproject",
     "authors": [
         {
-            "name": "Hcode Treinamentos",
-            "email": "suporte@hcode.com.br"
+            "name": "jsouzadasilveira",
+            "email": "jonathansouzadasilveira17@gmail.com"
         }
     ],
     "require": {
